@@ -1,0 +1,46 @@
+header{
+    border: solid 5px black;
+    color: white;
+    background-color: brown;
+    width: 980px;
+    height: 140px;
+    text-align: center;
+    font-size: 35px;
+    margin: 15px 15px 15px;
+}
+
+section{
+    border: solid 5px black;
+    color: white;
+    background-color: blueviolet;
+    width: 270px;
+    height: 450px;
+    text-align: center;
+    font-size: 35px;
+    margin: 15px 15px 15px;
+    display: inline-block;
+    
+}
+
+main{
+    border: solid 5px black;
+    color: white;
+    background-color: blue;
+    width: 690px;
+    height: 450px;
+    text-align: center;
+    font-size: 35px;
+    margin: 15px 15px 15px;
+    display:inline-flex;
+}
+
+footer{
+    border: solid 5px black;
+    color: white;
+    background-color: rgb(220, 52, 52);
+    width: 980px;
+    height: 70px;
+    text-align: center;
+    font-size: 15px;
+    margin: 15px 15px 15px;
+}
