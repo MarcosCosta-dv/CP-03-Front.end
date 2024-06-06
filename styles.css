@@ -6,7 +6,7 @@ header{
     height: 140px;
     text-align: center;
     font-size: 35px;
-    margin: 15px 15px 15px;
+    margin: 15px 15px;
 }
 
 section{
@@ -17,9 +17,8 @@ section{
     height: 450px;
     text-align: center;
     font-size: 35px;
-    margin: 15px 15px 15px;
-    display: inline-block;
-    
+    margin: 15px 15px;
+    display: flex;
 }
 
 main{
@@ -31,7 +30,7 @@ main{
     text-align: center;
     font-size: 35px;
     margin: 15px 15px 15px;
-    display:inline-flex;
+    display: flex
 }
 
 footer{
